@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-14)
+## Unreleased (2025-07-21)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`07d7a23`](https://github.com/stdlib-js/stdlib/commit/07d7a2388a8916c3f70c18abcc51b4086898bb1a) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`f8d770c`](https://github.com/stdlib-js/stdlib/commit/f8d770c6b844611c382c6bf11187fee24a4df5e2) - **feat:** add `stats/strided/stdev` _(by Gururaj Gurram)_
 
 </details>
